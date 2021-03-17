@@ -1,0 +1,1 @@
+docker build -t tj_test:1.0 .
